@@ -7,7 +7,6 @@
 ## 模块划分
 
 - vortex-core: 核心模块
-- vortex-controller: 服务入口
 - vortex-matching: 匹配模块
 - vortex-trigger: 触发模块
 - vortex-history: 历史模块
